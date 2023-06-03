@@ -1,7 +1,7 @@
 # GardKin Sys
 
 <img src="{https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green}" />
-Sistema de gestión escolar para preescolar.
+Sistema de gestión escolar para preescolar./>
 
 
 ## Instalación
