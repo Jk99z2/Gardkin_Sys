@@ -1,7 +1,7 @@
 # GardKin Sys
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,mysql,py,tailwind,react,django,github,vscode&theme=light)](https://skillicons.dev)
-
+ ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 ## Instalación
 
