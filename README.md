@@ -2,3 +2,5 @@
 
 SSC
 Dorian Raygoza & Enrique Ochoa
+
+Made with React and Django
