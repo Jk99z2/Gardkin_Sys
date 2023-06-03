@@ -1,6 +1,6 @@
 # GardKin Sys
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,mysql,py,tailwind,react,django,github,vscode&theme=light)](https://skillicons.dev)
 
 
 ## Instalación
